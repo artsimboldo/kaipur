@@ -6,6 +6,7 @@ The only and solely purpose of this is documentation, retrogaming and archiving.
 ![](atmos.jpg)
 Oric Atmos
 
+
 [French manual](kaipur_manuel.pdf "French manual PDF")
 ## Cover box (cassette)
 ![](kaipur_jaquette.png)
