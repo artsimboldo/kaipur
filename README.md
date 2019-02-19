@@ -9,8 +9,9 @@ The game contains 6 parts:
 [Solution Parts 3,4,5 and 6](kaipur_manuel.pdf "Solution 3456 PDF")
 #### Part 6 diagram
 ![](kaipur_solution_sk6.png)
-Thanks to Dom50, Symoon, laurentD75 from http://www.oric.org/
 ## Game screenshots
 ![](kaipur_ecrans0.png)
 ## More screenshots
 ![](kaipur_ecrans.png)
+
+Thanks to Dom50, Symoon, laurentD75 from http://www.oric.org/
