@@ -24,8 +24,8 @@ N$= "TEMPLE","BAGUE","REVOLVER","MACHINE","BOUTON","PARCHEMIN","MUR","BARRE","CA
 
 ```
 The game contains 6 parts:
-#### [Solution Parts 3,4,5 and 6](kaipur_manuel.pdf "Solution 3456 PDF")
-#### Part 6 diagram
+- #### [Solution Parts 3,4,5 and 6](kaipur_manuel.pdf "Solution 3456 PDF")
+- #### Part 6 diagram
 ![](kaipur_solution_sk6.png)
 ## Game screenshots
 ![](kaipur_ecrans0.png)
