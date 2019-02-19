@@ -6,9 +6,10 @@ The only and solely purpose of this is documentation, retrogaming and archiving.
 ![](kaipur_jaquette.png)
 ## Solution
 The game contains 6 parts:
-[Solution Parts 3,4,5 and 6](kaipur_manuel.pdf "Solution 3456 PDF") (thanks to Symoon)
-#### Part 6 diagram (thanks to Dom50)
+[Solution Parts 3,4,5 and 6](kaipur_manuel.pdf "Solution 3456 PDF")
+#### Part 6 diagram
 ![](kaipur_solution_sk6.png)
+Thanks to Dom50, Symoon, laurentD75 from http://www.oric.org/
 ## Game screenshots
 ![](kaipur_ecrans0.png)
 ## More screenshots
