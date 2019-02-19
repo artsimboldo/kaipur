@@ -5,4 +5,5 @@ An Oric adventure game in Tangerine BASIC, I wrote in 1984
 ![](kaipur_jaquette.png)
 
 ## Screenshots
+![](kaipur_ecrans0.png)
 ![](kaipur_ecrans.png)
