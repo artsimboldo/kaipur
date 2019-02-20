@@ -1,5 +1,6 @@
 # Le-Secret-de-Kaipur
-An Oric adventure game in Tangerine BASIC, I wrote in 1984
+An Oric adventure game in Tangerine BASIC, I wrote in 1984.
+
 The only and solely purpose of this is documentation, retrogaming and archiving.
 
 
@@ -23,7 +24,7 @@ N$= "TEMPLE","BAGUE","REVOLVER","MACHINE","BOUTON","PARCHEMIN","MUR","BARRE","CA
     "MANETTE","CONVERTISSEUR","TEMPOREL","CASQUE"
 
 ```
-The game contains 6 parts:
+The game contains 6 parts (numbers are BASIC line numbers in source code for screens):
 - #### [Solution Parts 3,4,5 and 6](kaipur_manuel.pdf "Solution 3456 PDF")
 - #### Parts 2,3,4 plans:
 ![](kaipur_solution_sk234.png)
