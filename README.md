@@ -7,9 +7,9 @@ An Oric adventure game in Tangerine BASIC, I wrote in 1984. The only and solely 
 Oric Atmos
 
 
-## [French manual](kaipur_manuel.pdf "French manual PDF")
 ## Cover box (cassette)
 ![](kaipur_jaquette.png)
+### [French manual](kaipur_manuel.pdf "French manual PDF")
 ## Game screenshots
 ![](kaipur_ecrans0.png)
 ## More screenshots
