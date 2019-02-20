@@ -4,7 +4,7 @@ An Oric adventure game in Tangerine BASIC, I wrote in 1984. The only and solely 
 
 ![](atmos.jpg)
 
-Oric Atmos (born, 1984 - RIP, 1985, still alive in my heart)
+Oric Atmos (born 1984, R.I.P 1985; still alive in my heart)
 
 
 ## Cover box (cassette)
