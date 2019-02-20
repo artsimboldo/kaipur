@@ -10,6 +10,10 @@ Oric Atmos
 ## [French manual](kaipur_manuel.pdf "French manual PDF")
 ## Cover box (cassette)
 ![](kaipur_jaquette.png)
+## Game screenshots
+![](kaipur_ecrans0.png)
+## More screenshots
+![](kaipur_ecrans.png)
 ## Solution
 Text analyzer commands:
 ```
@@ -31,9 +35,5 @@ The game contains 6 parts (numbers are BASIC line numbers in source code for scr
 ![](kaipur_solution_sk5.png)
 - #### Part 6 plan:
 ![](kaipur_solution_sk6.png)
-## Game screenshots
-![](kaipur_ecrans0.png)
-## More screenshots
-![](kaipur_ecrans.png)
 
 Thanks to Dom50, Symoon, laurentD75 from http://www.oric.org/
