@@ -1,10 +1,10 @@
 # Le-Secret-de-Kaipur
-An Oric adventure game in Tangerine BASIC, I wrote in 1984. The only and solely purpose of this is documentation, retrogaming and archiving.
+An Oric adventure game in Tangerine BASIC, I wrote in 1984. The only and solely purpose of this is documentation, retrogaming and archiving. 
 
 
 ![](atmos.jpg)
 
-Oric Atmos (1984 - 1985; still alive in my heart)
+Oric Atmos (1984 - 1985) - still alive in my heart :-)
 
 
 ## Cover box (cassette)
