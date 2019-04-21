@@ -1,4 +1,4 @@
-# Le-Secret-de-Kaipur
+# Le Secret de Kaipur
 An Oric adventure game in Tangerine BASIC, I wrote in 1984. The only and solely purpose of this is documentation, retrogaming and archiving. Reflecting after 30 years of programming, it is interesting to see that the program IS the story, so written by a sort of writer than a programmer... 
 
 
