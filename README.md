@@ -28,7 +28,6 @@ N$= "TEMPLE","BAGUE","REVOLVER","MACHINE","BOUTON","PARCHEMIN","MUR","BARRE","CA
 
 ```
 The game contains 6 parts (numbers are BASIC line numbers in source code for screens):
-- #### [Solution Parts 3,4,5 and 6](kaipur_manuel.pdf "Solution 3456 PDF")
 - #### Parts 2,3,4 plans:
 ![](kaipur_solution_sk234.png)
 - #### Part 5 plan:
