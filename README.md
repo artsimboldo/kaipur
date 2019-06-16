@@ -35,4 +35,4 @@ The game contains 6 parts (numbers are BASIC line numbers in source code for scr
 - #### Part 6 plan:
 ![](kaipur_solution_sk6.png)
 
-Thanks to Dom50, Symoon, laurentD75 from http://www.oric.org/
+Thanks to Dom, Symoon, laurent from http://www.oric.org/
